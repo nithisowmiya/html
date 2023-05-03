@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/plain-blue-ocean-water-hd-oa9xttpsd8a1swl2.webp);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+h1 {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+}
+*{
+    text-align: center
+
+}
